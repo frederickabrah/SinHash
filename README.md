@@ -1,0 +1,2 @@
+# SinHash
+A SINISTER PACKAGE
