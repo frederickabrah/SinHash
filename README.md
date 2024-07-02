@@ -25,8 +25,7 @@ To set up the environment and install the necessary dependencies, follow these s
 
 1. **Clone the repository**:
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/frederickabrah/SinHash 
     ```
 
 2. **Run the setup script**:
